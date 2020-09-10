@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Groupon</string>
+    <string name="start_btn">开启应用</string>
+    <string name="bottom_tab_home">首页</string>
+    <string name="bottom_tab_near">周边</string>
+    <string name="bottom_tab_my">我的</string>
+    <string name="bottom_tab_more">更多</string>
+    <string name="aroundfrag_toolbar_title">周边</string>
+    <string name="location">定位</string>
+    <string name="search">搜索</string>
+    <string name="myfrag_toolbar_title">我的</string>
+    <string name="morefrag_toolbar_title">更多</string>
+    <string name="mainfrag_toolbar_searchedit_hint">请输入商品名，品类名或者商圈名</string>
+    <string name="mainfrag_toolbar_menuitem01">扫描二维码</string>
+    <string name="mainfrag_toolbar_menuitem02">信息</string>
+    <string name="hot_film">热门电影</string>
+    <string name="more_film">更多电影</string>
+    <string name="hot_sale">猜你喜欢</string>
+    <string name="supplier_list_all">全部</string>
+    <string name="supplier_list_sort">综合排序</string>
+    <string name="supplier_list_activity">优惠活动</string>
+</resources>
